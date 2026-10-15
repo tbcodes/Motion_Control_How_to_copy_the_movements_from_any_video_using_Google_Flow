@@ -1,0 +1,403 @@
+****************************************************************************
+ Motion Control: How to copy the movements from any video using Google Flow
+ CREATED BY: TRUZZ BLOGG (Ricardo)
+ Youtube Link: https://youtu.be/pD_DueqDxBI
+****************************************************************************
+
+
+Prompt:
+
+
+MOTION TRANSFER — MAXIMUM MOTION FIDELITY, ORIGINAL SPEED AND STRICT IDENTITY PRESERVATION
+PRIMARY INSTRUCTIONS
+
+Use the uploaded reference video as the PRIMARY MOTION, TIMING, LIP MOVEMENT, AND CAMERA REFERENCE.
+
+Use the uploaded image as the EXCLUSIVE CHARACTER IDENTITY AND APPEARANCE REFERENCE.
+
+MAIN OBJECTIVE: RECREATE THE REFERENCE VIDEO'S ORIGINAL PERFORMANCE AS ACCURATELY AS POSSIBLE, PRESERVING THE ORIGINAL MOVEMENT SPEED, TIMING, CHOREOGRAPHY, FACIAL EXPRESSIONS, VISIBLE LIP MOTION, AND CAMERA BEHAVIOR.
+
+The character from the uploaded image must perform the same actions as the person in the reference video, following the original temporal sequence and movement dynamics.
+
+Do not reinterpret, simplify, stylize, slow down, or creatively modify the original performance.
+
+The result must look as though the uploaded character performed the original recording naturally, at the same speed and with the same physical energy.
+
+1. MOTION TRANSFER — EXACT PERFORMANCE REPLICATION
+
+Transfer the reference performer's movements to the uploaded character as accurately as possible.
+
+Reproduce the complete original performance, including:
+
+Body movements and pose changes.
+Arm, wrist, hand, and finger gestures.
+Head movements, turns, tilts, and nods.
+Facial expressions and emotional reactions.
+Eye direction, blinking, and gaze changes.
+Body orientation, posture, and weight shifts.
+Walking, standing, leaning, turning, and other physical actions.
+Movement direction, speed, acceleration, and intensity.
+Pauses, transitions, anticipation, and follow-through when visible in the reference.
+Small gestures, subtle reactions, and natural micro-movements.
+Mouth movements and visible speech-related articulation.
+Overall choreography and performance timing.
+Camera movement, framing, perspective, and subject positioning.
+
+Reproduce the same sequence of actions in the same order, with the same approximate timing, direction, intensity, rhythm, and duration.
+
+Treat the reference video as the authoritative source for the performance.
+
+Do not omit, replace, simplify, exaggerate, or invent actions.
+
+Do not convert specific movements into generic gestures.
+
+Do not prioritize aesthetic animation choices over faithful reproduction of the reference.
+
+2. CRITICAL: ORIGINAL MOTION SPEED AND TEMPORAL ACCURACY
+
+ABSOLUTE RULE: REPRODUCE EVERY MOVEMENT AT THE ORIGINAL SPEED SHOWN IN THE REFERENCE VIDEO. NEVER SLOW DOWN FAST MOVEMENTS.
+
+Motion speed and temporal accuracy are essential requirements, not optional stylistic preferences.
+
+The character must reproduce the original movement dynamics, including rapid gestures, sudden transitions, sharp changes of direction, and brief physical reactions.
+
+2.1. Fast-motion preservation
+Reproduce fast movements at the same apparent speed as the reference.
+Preserve rapid arm swings, quick hand gestures, sudden head turns, fast body rotations, sharp pose changes, and explosive movements.
+Match the original acceleration, deceleration, momentum, and movement intensity.
+Preserve the original speed of each action, even when the movement lasts only a fraction of a second.
+Match the approximate duration of each individual gesture and transition.
+Preserve the contrast between fast movements, slow movements, and complete pauses.
+Maintain the original rhythm and the relative timing between consecutive actions.
+Reproduce abrupt movements abruptly when the reference shows abrupt movement.
+Reproduce quick stops and changes of direction without unnecessary easing.
+Preserve the original movement amplitude and peak positions.
+
+Do not stretch fast actions across a longer time interval. Do not transform a quick gesture into a slow gesture. Do not replace sharp movements with smooth, graceful, or cinematic animation.
+
+2.2. No artificial motion smoothing
+
+Do not apply artificial slow motion, temporal stretching, excessive easing, or motion smoothing that reduces the original movement speed.
+
+Do not average out rapid movements or remove their defining motion characteristics.
+
+Do not add unnecessary preparation, anticipation, recovery, follow-through, or settling movements that are absent from the reference.
+
+Do not insert pauses between consecutive actions when the reference contains no pause.
+
+Do not delay a movement to make it appear more natural or visually pleasing.
+
+Natural movement must retain the original speed, energy, momentum, and intensity.
+
+Prioritize motion fidelity over motion beautification. Prioritize original timing over excessive smoothness.
+
+2.3. Frame-by-frame temporal correspondence
+
+Treat the reference video as a time-indexed sequence of poses and movements.
+
+At each corresponding moment, reproduce the reference performer's:
+
+Body pose and orientation.
+Hand and arm positions.
+Head angle and direction.
+Facial expression and gaze.
+Visible mouth shape.
+Movement phase, speed, and direction.
+
+Maintain temporal correspondence from the beginning to the end of the generated video.
+
+A movement that occurs early in the reference must not occur later in the output.
+
+A brief action must not become an extended action.
+
+A fast transition must not become a slow transition.
+
+Do not allow the generated performance to progressively drift out of sync with the reference.
+
+Preserve the original temporal structure, including action duration, pauses, rapid transitions, and changes in rhythm, as closely as the generation system permits.
+
+2.4. Movement fidelity when compromises are unavoidable
+
+If the generation system cannot reproduce every detail perfectly, prioritize:
+
+Correct action and movement direction.
+Original execution speed and timing.
+Correct peak pose and movement amplitude.
+Correct sequence and transitions.
+Character identity and visual consistency.
+Natural secondary motion and cosmetic smoothness.
+
+Do not sacrifice the speed of a movement merely to produce smoother animation.
+
+3. STRICT LIP MOTION AND MOUTH SYNCHRONIZATION
+
+CRITICAL RULE: REPRODUCE THE VISIBLE MOUTH MOVEMENTS IN THE REFERENCE VIDEO WITH THE CLOSEST POSSIBLE TEMPORAL AND VISUAL ACCURACY.
+
+The reference video is the authoritative source for visible lip movement and mouth articulation.
+
+Match the opening and closing of the mouth at the corresponding moments.
+
+Reproduce the reference performer's visible:
+
+Lip shapes and positions.
+Mouth opening and closing.
+Jaw movements.
+Lip compression and relaxation.
+Smiles and open-mouth expressions.
+Brief mouth movements and pauses.
+Changes in mouth shape during visible speech or singing.
+Coordination between mouth movement, head motion, and facial expression.
+
+Match the timing, duration, speed, and rhythm of visible mouth movements.
+
+Preserve the original sequence of mouth movements, including rapid changes, short pauses, and subtle articulations.
+
+Do not slow down rapid mouth movements.
+
+Do not invent dialogue, phonemes, words, singing, or unrelated facial animation.
+
+If the reference performer is speaking, reproduce the visible speech-related mouth movements with matching timing.
+
+If the reference performer is singing, reproduce the visible singing-related mouth movements and timing without generating additional musical content.
+
+If the reference performer is silent, reproduce the visible mouth behavior without inventing speech.
+
+If the original audio or speech content is unavailable, use the visible mouth movements as the source of truth. Do not guess the dialogue or synthesize replacement audio.
+
+Coordinate mouth movement with the character's jaw, head position, and facial expressions.
+
+Preserve the uploaded character's own facial identity while reproducing the reference performer's visible mouth-motion sequence.
+
+4. ABSOLUTE NO-MUSIC RULE — HIGHEST AUDIO PRIORITY
+
+STRICT REQUIREMENT: NEVER ADD MUSIC TO THE OUTPUT VIDEO UNDER ANY CIRCUMSTANCES.
+
+No generated music. No background soundtrack. No instrumental music. No orchestral music. No beats. No melodies. No cinematic score. No intro music. No outro music. No transition music. No automatically generated soundtrack.
+
+Do not add music to make the video feel more cinematic, emotional, complete, or professional.
+
+Do not introduce humming, singing, or musical vocalizations unless they are visibly part of the original performance and supported by the reference.
+
+Do not generate substitute audio, artificial background ambience, or additional sound effects.
+
+Audio preservation
+
+If the reference video contains original dialogue or other audio, preserve it only if the generation system supports genuine audio retention.
+
+Do not synthesize replacement dialogue or reconstruct missing speech audio.
+
+If the reference video is silent, the output must remain completely silent.
+
+If audio retention is unavailable, prioritize a silent output rather than generating replacement audio.
+
+Do not infer that visible mouth movement requires generated sound.
+
+FINAL AUDIO REQUIREMENT: ZERO ADDED MUSIC. ZERO GENERATED SOUNDTRACK. ZERO AUTOMATICALLY ADDED AUDIO.
+
+The no-added-music rule is absolute and must not be overridden by cinematic, realism, or performance instructions.
+
+5. STRICT CHARACTER IDENTITY PRESERVATION
+
+The uploaded character image is the exclusive source of character identity and appearance.
+
+Preserve the character's original:
+
+Face and facial structure.
+Eyes, eyebrows, nose, lips, and jawline.
+Skin tone and natural skin texture.
+Hair color, hairstyle, and hairline.
+Apparent age.
+Body proportions and physique.
+Clothing, footwear, and accessories.
+Distinctive physical characteristics.
+
+Do not copy the reference performer's face, identity, hairstyle, clothing, or physical appearance.
+
+Transfer the reference performer's motion and performance, not their identity.
+
+Adapt the reference performance to the uploaded character's anatomy while preserving the movement's direction, timing, speed, and overall shape.
+
+Do not alter the character's identity to imitate the reference performer.
+
+Do not change the character's face to reproduce the reference performer's facial structure.
+
+Facial expressions and mouth movements must be transferred while preserving the uploaded character's identity.
+
+The character must remain visually recognizable as the same person throughout the entire video.
+
+6. PERFORMANCE AND GESTURE TRANSFER
+
+Make it appear that the uploaded character was physically present during the original recording and performed the same actions.
+
+Examples:
+
+If the reference performer rapidly raises an arm, the character must raise the corresponding arm with the same speed and timing.
+If the performer quickly turns their head, the character must reproduce the same quick turn.
+If the performer abruptly changes pose, the character must reproduce the same transition without slowing it down.
+If the performer makes a sequence of hand gestures, reproduce the gestures in the same order and at the original pace.
+If the performer shifts weight, leans, walks, or rotates their body, reproduce the corresponding movement.
+If the performer makes a brief facial expression, reproduce it at the corresponding moment.
+If the performer moves their lips, reproduce the visible mouth movements at the corresponding time.
+If the performer stops suddenly, reproduce the stop without adding an unnecessary settling motion.
+If the performer pauses, preserve the pause.
+If the performer resumes moving immediately, reproduce that immediate transition.
+
+Preserve subtle movements and small reactions in addition to the main actions.
+
+Do not omit brief gestures because they happen too quickly.
+
+Do not replace multiple rapid movements with one simplified movement.
+
+Do not invent additional gestures to fill gaps in the performance.
+
+The goal is faithful performance transfer, not a reinterpretation of the original motion.
+
+7. CAMERA AND FRAMING ACCURACY
+
+Match the reference video's:
+
+Camera angle and perspective.
+Framing and composition.
+Subject placement and scale.
+Camera distance and apparent lens perspective.
+Camera movement and speed.
+Panning, tilting, and zooming when present.
+Subject position relative to the frame.
+Changes in framing throughout the performance.
+
+If the reference camera is static, keep the camera static.
+
+If the reference camera moves, reproduce the same movement and approximate timing.
+
+Do not introduce unnecessary camera movements, cuts, zooms, reframing, or cinematic transitions.
+
+Do not use camera movement to compensate for inaccurate character motion.
+
+Maintain the relationship between the subject and the camera throughout the video.
+
+8. PHOTOREALISM AND NATURAL MOVEMENT
+
+Create a realistic performance with:
+
+Natural human biomechanics.
+Accurate balance, momentum, and weight transfer.
+Realistic joint articulation.
+Consistent hand and finger structure.
+Natural facial expressions.
+Accurate jaw and mouth articulation.
+Realistic hair and clothing dynamics.
+Consistent lighting and natural skin texture.
+Smooth frame-to-frame continuity without reducing motion speed.
+Stable character appearance and proportions.
+
+Avoid robotic motion, distorted anatomy, unnatural hand positions, facial warping, flickering, identity drift, and artificial facial animation.
+
+Important: Realism must not be achieved by slowing down the original performance.
+
+Fast movements must remain fast. Sharp movements must remain sharp. Pauses must remain pauses.
+
+Maintain the original movement dynamics while minimizing visual artifacts.
+
+Do not add exaggerated secondary motion or excessive body bounce that is absent from the reference.
+
+9. STRICT TEMPORAL AND IDENTITY CONSISTENCY
+
+Maintain the same character identity from the first frame to the last frame.
+
+No face morphing.
+
+No identity drift.
+
+No skin-tone changes.
+
+No hairstyle changes.
+
+No clothing changes.
+
+No accessory changes.
+
+No body-proportion changes.
+
+No facial-structure changes.
+
+No inconsistent hand or finger anatomy.
+
+No frame-to-frame flickering.
+
+No inconsistent lip shapes.
+
+No sudden changes in subject scale.
+
+No progressive motion desynchronization.
+
+No unexplained changes in movement speed.
+
+No skipped rapid gestures.
+
+No artificial pauses.
+
+No duplicated actions.
+
+No altered action order.
+
+Maintain visual and temporal consistency throughout the entire performance.
+
+10. FINAL PRIORITY HIERARCHY
+
+Follow these priorities when generating the output:
+
+ZERO ADDED MUSIC: Never add music, a generated soundtrack, or unwanted audio.
+CHARACTER IDENTITY: Preserve the uploaded character's identity and appearance.
+ORIGINAL MOTION SPEED AND TIMING: Reproduce fast movements at their original speed and preserve the duration and rhythm of every action.
+BODY MOTION ACCURACY: Reproduce the reference choreography, gestures, pose changes, and body orientation.
+LIP MOTION ACCURACY: Match visible mouth movements and their temporal alignment.
+FACIAL EXPRESSION ACCURACY: Reproduce expressions, gaze, blinking, and micro-expressions.
+CAMERA ACCURACY: Match framing, perspective, camera movement, and subject positioning.
+PHOTOREALISM: Maintain natural biomechanics and visual consistency without artificially slowing the motion.
+Conflict resolution
+
+Never sacrifice the no-added-music requirement.
+
+Never compromise character identity.
+
+Never slow down fast movements to improve visual smoothness.
+
+Never replace accurate temporal correspondence with a loosely similar performance.
+
+When smoothness conflicts with speed accuracy, prioritize speed accuracy.
+
+When cinematic styling conflicts with the reference, prioritize the reference.
+
+When exact reproduction is technically limited, preserve the original movement sequence, direction, speed, intensity, and timing as closely as possible.
+
+11. FINAL OUTPUT REQUIREMENTS
+
+Generate a photorealistic, natural-looking motion-transfer video in which the character from the uploaded image reproduces the reference video's performance.
+
+The final output must preserve:
+
+The same sequence of actions.
+The original movement speed and intensity.
+The timing and duration of rapid gestures.
+The original rhythm, pauses, and transitions.
+Accurate body movement and hand gestures.
+Matching facial expressions and visible lip motion.
+The uploaded character's identity and appearance.
+The original camera behavior and framing.
+Natural motion and temporal consistency.
+No unnecessary actions, pauses, or slow-motion effects.
+Absolutely no added music or generated soundtrack.
+
+FINAL INSTRUCTION:
+
+Use the uploaded reference video as the authoritative source for movement, movement speed, timing, choreography, visible lip motion, facial expressions, and camera behavior.
+
+Use the uploaded image exclusively as the source of character identity and appearance.
+
+Reproduce the original performance as faithfully as possible, preserving the speed of fast actions and the timing of every transition.
+
+Do not simplify the choreography, artificially smooth rapid movements, insert unnecessary pauses, or reinterpret the performance.
+
+NO ADDED MUSIC UNDER ANY CIRCUMSTANCES.
+
+
